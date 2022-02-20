@@ -1,8 +1,8 @@
 # Olá, essas são as questões (que eu consegui fazer)
-
+### Aqui vou apresentar como você pode baixar e colocar elas pra rodar!
 ##
 
-### Aqui vou apresentar como você pode baixar e colocar elas pra rodar!
+
 
 
 #### Vou ensinar como fazer pelo Git:
